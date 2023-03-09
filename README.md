@@ -4,12 +4,11 @@ I det här projektet ska ni bygga en blogg, hemsida eller portfolio med ett Vue 
 
 Som CSS bibliotek föreslår jag att man använder Tailwind CSS.
 
-## Steg 1. Hitta en design som ni vill försöka återskapa, titta på länkarna till designs.
+### Steg 1. 
+Hitta en design som ni vill försöka återskapa, titta på länkarna till designs.
 
-## Steg 1. Implementera er blogg, hemsida, portfolio efter designen.
-
-
-Som resurser föreslås dessa Youtube klipp.
+### Steg 2. 
+Implementera er blogg, hemsida, portfolio efter designen.
 
 # Resurser
 
