@@ -4,6 +4,10 @@ I det här projektet ska ni bygga en blogg, hemsida eller portfolio med ett Vue 
 
 Som CSS bibliotek föreslår jag att man använder Tailwind CSS.
 
+En bra artikel som beskriver skillnaderna mellan SPA (Single Page Application) (CSR - Client-Side-Rendering), SSR (Server-Side-Rendering) och SSG (Static Site Generation)
+
+<a href="https://www.wolfpack-digital.com/blogposts/spa-csr-ssr-ssg-demystifying-rendering-modes">https://www.wolfpack-digital.com/blogposts/spa-csr-ssr-ssg-demystifying-rendering-modes</a>
+
 ### Steg 1. 
 Hitta en design som ni vill försöka återskapa, titta på länkarna till designs.
 
