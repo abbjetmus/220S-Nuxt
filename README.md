@@ -8,10 +8,12 @@ Som resurser föreslås dessa Youtube klipp.
 
 # Resurser
 
+## Youtube
 <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC">Net Ninja Nuxt 3 tutorial</a>
 
 <a href="https://www.youtube.com/watch?v=ft30zcMlFao">Tailwind tutorial</a>
 
+## Dokumentation
 <a href="https://nuxt.com/">Nuxt egna hemsida, för dokumentation</a>
 
 <a href="https://content.nuxtjs.org/">Nuxt Content</a>
