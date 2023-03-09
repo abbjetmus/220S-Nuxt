@@ -12,3 +12,7 @@ Som resurser föreslås dessa Youtube klipp.
 
 <a href="https://www.youtube.com/watch?v=ft30zcMlFao">Tailwind tutorial</a>
 
+<a href="https://nuxt.com/">Nuxt egna hemsida, för dokumentation</a>
+
+<a href="https://content.nuxtjs.org/">Nuxt Content</a>
+
