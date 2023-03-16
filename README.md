@@ -9,6 +9,9 @@ Som CSS bibliotek föreslår jag att man använder Tailwind CSS.
 Det vi har byggt hittills med Quasar Framework kallas en SPA (Single Page Application), SPAs har en stor nackdel och det är att
 sökmotorer som Google har svårt att indexera såna hemsidor.
 
+* Köpa mjölk
+* Köpa kebabrulle
+
 Det vi ska bygga här med Nuxt är en SSG (Static Site Generation).
 
 En bra artikel som beskriver skillnaderna mellan SPA (Single Page Application) (CSR - Client-Side-Rendering), SSR (Server-Side-Rendering) och SSG (Static Site Generation)
